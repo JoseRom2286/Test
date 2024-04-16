@@ -11,7 +11,7 @@ Note that this toothbrush is totally safe to use for children, adults, or pets.
 
 ### Excercise 2
 
-<details open>
+<details>
 <summary>My top Customers</summary>
 
 | Rank | THING-TO-RANK |
@@ -20,6 +20,10 @@ Note that this toothbrush is totally safe to use for children, adults, or pets.
 |     2| Customer 2    |
 |     3|Customer 3     |
 </details>
+
+---
+> If we pull together and commit ourselves, then we can push through anything.
+> — Mon the Octocat
 
 #### Excercise 3
 
