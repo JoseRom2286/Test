@@ -11,11 +11,21 @@ Note that this toothbrush is totally safe to use for children, adults, or pets.
 
 ### Excercise 2
 
+<details open>
+<summary>My top THINGS-TO-RANK</summary>
+
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1| Customer 1    |
 |     2| Customer 2    |
 |     3|Customer 3     |
+</details>
 
+#### Excercise 3
+
+| Status  | Description |      
+|-------: | ------------|
+|   200   |             |
+|   401   |             |
 
 
