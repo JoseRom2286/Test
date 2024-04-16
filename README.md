@@ -13,9 +13,9 @@ Note that this toothbrush is totally safe to use for children, adults, or pets.
 
 | Rank | THING-TO-RANK |
 |-----:|---------------|
-|     1|               |
-|     2|               |
-|     3|               |
+|     1| Customer 1    |
+|     2| Customer 2    |
+|     3|Customer 3     |
 
 
 
